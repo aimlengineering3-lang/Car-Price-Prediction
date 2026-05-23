@@ -7,7 +7,7 @@ from lightgbm import LGBMRegressor
 # ---------------- PAGE CONFIG ---------------- #
 
 st.set_page_config(
-    page_title="OLX Car Price Predictor",
+    st.title("🚗 OLX Car Price Predictor"),
     page_icon="🚗",
     layout="wide"
 )
